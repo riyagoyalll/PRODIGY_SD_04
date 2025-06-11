@@ -32,8 +32,6 @@ Create a program that solves Sudoku puzzles automatically using an algorithm lik
 ![solved](S3.png)
 
 ## ▶️ How to Run
-
-1. Clone this repo:
   ```bash
    python sudoku_solver.py
   
