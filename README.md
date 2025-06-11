@@ -22,11 +22,18 @@ Create a program that solves Sudoku puzzles automatically using an algorithm lik
 - Tkinter for GUI
 
 ## 📷 Screenshots
+### Output of the code
+![output](S1.png)
 
-You can include screenshots here (upload to GitHub or include in README via markdown image tags).
+### Taking some values
+![values](S2.png)
+
+### Fully solved sudoku
+![solved](S3.png)
 
 ## ▶️ How to Run
 
 1. Clone this repo:
-   ```bash
+  ```bash
+   python sudoku_solver.py
   
